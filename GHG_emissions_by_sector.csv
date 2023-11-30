@@ -1,4 +1,4 @@
-Year,Region,Index,Source,Sector,Sub-sector,Sub-sub-sector,megatonnes_CO2eq
+Year,Region,Index,Source,Sector,Sub-sector,Sub-sub-sector,mt_CO2eq
 1990,Canada,0,National Inventory Total,,,,588.6028116
 1990,Canada,1,Oil and Gas,,,,100.4586192
 1990,Canada,2,Oil and Gas,Upstream Oil and Gas,,,80.56974571
@@ -8667,7 +8667,7 @@ Year,Region,Index,Source,Sector,Sub-sector,Sub-sub-sector,megatonnes_CO2eq
 2005,Northwest Territories,12,Oil and Gas,Upstream Oil and Gas,"Oil, Natural Gas and CO2  Transmission",,0.005379707
 2005,Northwest Territories,13,Oil and Gas,Downstream Oil and Gas,,,0.00033077
 2005,Northwest Territories,15,Oil and Gas,Downstream Oil and Gas,Natural Gas Distribution,,0.00033077
-2005,Northwest Territories,16,Electricity,,,,x
+2005,Northwest Territories,16,Electricity,,,,
 2005,Northwest Territories,17,Transport,,,,0.760332588
 2005,Northwest Territories,18,Transport,Passenger Transport,,,0.262273375
 2005,Northwest Territories,19,Transport,Passenger Transport,"Cars, Light Trucks and Motorcycles",,0.087826422
@@ -8684,9 +8684,9 @@ Year,Region,Index,Source,Sector,Sub-sector,Sub-sub-sector,megatonnes_CO2eq
 2005,Northwest Territories,30,Heavy Industry,Cement,,,1.13E-05
 2005,Northwest Territories,31,Heavy Industry,Lime and Gypsum,,,1.13E-05
 2005,Northwest Territories,32,Heavy Industry,Chemicals and Fertilizers,,,0.000777167
-2005,Northwest Territories,45,"Light Manufacturing, Construction and Forest Resources",,,,x
+2005,Northwest Territories,45,"Light Manufacturing, Construction and Forest Resources",,,,
 2005,Northwest Territories,46,"Light Manufacturing, Construction and Forest Resources",Light Manufacturing,,,0.001534471
-2005,Northwest Territories,47,"Light Manufacturing, Construction and Forest Resources",Construction,,,x
+2005,Northwest Territories,47,"Light Manufacturing, Construction and Forest Resources",Construction,,,
 2005,Northwest Territories,48,"Light Manufacturing, Construction and Forest Resources",Forest Resources,,,0.001304058
 2005,Northwest Territories,33,Buildings,,,,0.249865876
 2005,Northwest Territories,34,Buildings,Service Industry,,,0.14760801
@@ -8698,7 +8698,7 @@ Year,Region,Index,Source,Sector,Sub-sector,Sub-sub-sector,megatonnes_CO2eq
 2005,Northwest Territories,36,Agriculture,,,,0.001541753
 2005,Northwest Territories,37,Agriculture,On Farm Fuel Use,,,0.001541753
 2005,Nunavut,0,Territorial Inventory Total,,,,0.583880832
-2005,Nunavut,16,Electricity,,,,x
+2005,Nunavut,16,Electricity,,,,
 2005,Nunavut,17,Transport,,,,0.334406594
 2005,Nunavut,18,Transport,Passenger Transport,,,0.137789023
 2005,Nunavut,19,Transport,Passenger Transport,"Cars, Light Trucks and Motorcycles",,0.015878206
@@ -8710,9 +8710,9 @@ Year,Region,Index,Source,Sector,Sub-sector,Sub-sub-sector,megatonnes_CO2eq
 2005,Nunavut,25,Heavy Industry,,,,0.09719539
 2005,Nunavut,26,Heavy Industry,Mining,,,0.096637198
 2005,Nunavut,32,Heavy Industry,Chemicals and Fertilizers,,,0.000558192
-2005,Nunavut,45,"Light Manufacturing, Construction and Forest Resources",,,,x
+2005,Nunavut,45,"Light Manufacturing, Construction and Forest Resources",,,,
 2005,Nunavut,46,"Light Manufacturing, Construction and Forest Resources",Light Manufacturing,,,0.000466019
-2005,Nunavut,47,"Light Manufacturing, Construction and Forest Resources",Construction,,,x
+2005,Nunavut,47,"Light Manufacturing, Construction and Forest Resources",Construction,,,
 2005,Nunavut,33,Buildings,,,,0.012729959
 2005,Nunavut,34,Buildings,Service Industry,,,0.012439082
 2005,Nunavut,35,Buildings,Residential,,,0.000290877
@@ -9230,7 +9230,7 @@ Year,Region,Index,Source,Sector,Sub-sector,Sub-sub-sector,megatonnes_CO2eq
 2006,Northwest Territories,12,Oil and Gas,Upstream Oil and Gas,"Oil, Natural Gas and CO2  Transmission",,0.004832567
 2006,Northwest Territories,13,Oil and Gas,Downstream Oil and Gas,,,0.000297032
 2006,Northwest Territories,15,Oil and Gas,Downstream Oil and Gas,Natural Gas Distribution,,0.000297032
-2006,Northwest Territories,16,Electricity,,,,x
+2006,Northwest Territories,16,Electricity,,,,
 2006,Northwest Territories,17,Transport,,,,0.720660935
 2006,Northwest Territories,18,Transport,Passenger Transport,,,0.288241156
 2006,Northwest Territories,19,Transport,Passenger Transport,"Cars, Light Trucks and Motorcycles",,0.079794701
@@ -9247,9 +9247,9 @@ Year,Region,Index,Source,Sector,Sub-sector,Sub-sub-sector,megatonnes_CO2eq
 2006,Northwest Territories,30,Heavy Industry,Cement,,,1.13E-05
 2006,Northwest Territories,31,Heavy Industry,Lime and Gypsum,,,1.13E-05
 2006,Northwest Territories,32,Heavy Industry,Chemicals and Fertilizers,,,0.000755581
-2006,Northwest Territories,45,"Light Manufacturing, Construction and Forest Resources",,,,x
+2006,Northwest Territories,45,"Light Manufacturing, Construction and Forest Resources",,,,
 2006,Northwest Territories,46,"Light Manufacturing, Construction and Forest Resources",Light Manufacturing,,,0.001267093
-2006,Northwest Territories,47,"Light Manufacturing, Construction and Forest Resources",Construction,,,x
+2006,Northwest Territories,47,"Light Manufacturing, Construction and Forest Resources",Construction,,,
 2006,Northwest Territories,48,"Light Manufacturing, Construction and Forest Resources",Forest Resources,,,0.001447646
 2006,Northwest Territories,33,Buildings,,,,0.240845432
 2006,Northwest Territories,34,Buildings,Service Industry,,,0.154952255
@@ -9259,7 +9259,7 @@ Year,Region,Index,Source,Sector,Sub-sector,Sub-sub-sector,megatonnes_CO2eq
 2006,Northwest Territories,42,Waste,Wastewater,,,0.003035
 2006,Northwest Territories,43,Waste,Waste Incineration,,,4.71E-06
 2006,Nunavut,0,Territorial Inventory Total,,,,0.621445698
-2006,Nunavut,16,Electricity,,,,x
+2006,Nunavut,16,Electricity,,,,
 2006,Nunavut,17,Transport,,,,0.34136337
 2006,Nunavut,18,Transport,Passenger Transport,,,0.145077332
 2006,Nunavut,19,Transport,Passenger Transport,"Cars, Light Trucks and Motorcycles",,0.024840486
@@ -9271,9 +9271,9 @@ Year,Region,Index,Source,Sector,Sub-sector,Sub-sub-sector,megatonnes_CO2eq
 2006,Nunavut,25,Heavy Industry,,,,0.154658616
 2006,Nunavut,26,Heavy Industry,Mining,,,0.154114325
 2006,Nunavut,32,Heavy Industry,Chemicals and Fertilizers,,,0.00054429
-2006,Nunavut,45,"Light Manufacturing, Construction and Forest Resources",,,,x
+2006,Nunavut,45,"Light Manufacturing, Construction and Forest Resources",,,,
 2006,Nunavut,46,"Light Manufacturing, Construction and Forest Resources",Light Manufacturing,,,0.000819074
-2006,Nunavut,47,"Light Manufacturing, Construction and Forest Resources",Construction,,,x
+2006,Nunavut,47,"Light Manufacturing, Construction and Forest Resources",Construction,,,
 2006,Nunavut,33,Buildings,,,,0.004810552
 2006,Nunavut,34,Buildings,Service Industry,,,0.004556307
 2006,Nunavut,35,Buildings,Residential,,,0.000254245
@@ -9791,7 +9791,7 @@ Year,Region,Index,Source,Sector,Sub-sector,Sub-sub-sector,megatonnes_CO2eq
 2007,Northwest Territories,12,Oil and Gas,Upstream Oil and Gas,"Oil, Natural Gas and CO2  Transmission",,0.004693175
 2007,Northwest Territories,13,Oil and Gas,Downstream Oil and Gas,,,0.000280129
 2007,Northwest Territories,15,Oil and Gas,Downstream Oil and Gas,Natural Gas Distribution,,0.000280129
-2007,Northwest Territories,16,Electricity,,,,x
+2007,Northwest Territories,16,Electricity,,,,
 2007,Northwest Territories,17,Transport,,,,0.840529531
 2007,Northwest Territories,18,Transport,Passenger Transport,,,0.295972374
 2007,Northwest Territories,19,Transport,Passenger Transport,"Cars, Light Trucks and Motorcycles",,0.083219101
@@ -9803,9 +9803,9 @@ Year,Region,Index,Source,Sector,Sub-sector,Sub-sub-sector,megatonnes_CO2eq
 2007,Northwest Territories,25,Heavy Industry,,,,0.293942872
 2007,Northwest Territories,26,Heavy Industry,Mining,,,0.293665947
 2007,Northwest Territories,32,Heavy Industry,Chemicals and Fertilizers,,,0.000276925
-2007,Northwest Territories,45,"Light Manufacturing, Construction and Forest Resources",,,,x
+2007,Northwest Territories,45,"Light Manufacturing, Construction and Forest Resources",,,,
 2007,Northwest Territories,46,"Light Manufacturing, Construction and Forest Resources",Light Manufacturing,,,0.001412099
-2007,Northwest Territories,47,"Light Manufacturing, Construction and Forest Resources",Construction,,,x
+2007,Northwest Territories,47,"Light Manufacturing, Construction and Forest Resources",Construction,,,
 2007,Northwest Territories,48,"Light Manufacturing, Construction and Forest Resources",Forest Resources,,,0.001336372
 2007,Northwest Territories,33,Buildings,,,,0.274512446
 2007,Northwest Territories,34,Buildings,Service Industry,,,0.158368186
@@ -9816,7 +9816,7 @@ Year,Region,Index,Source,Sector,Sub-sector,Sub-sub-sector,megatonnes_CO2eq
 2007,Northwest Territories,36,Agriculture,,,,0.000256959
 2007,Northwest Territories,37,Agriculture,On Farm Fuel Use,,,0.000256959
 2007,Nunavut,0,Territorial Inventory Total,,,,0.646053719
-2007,Nunavut,16,Electricity,,,,x
+2007,Nunavut,16,Electricity,,,,
 2007,Nunavut,17,Transport,,,,0.342985924
 2007,Nunavut,18,Transport,Passenger Transport,,,0.151667706
 2007,Nunavut,19,Transport,Passenger Transport,"Cars, Light Trucks and Motorcycles",,0.02329705
@@ -9828,9 +9828,9 @@ Year,Region,Index,Source,Sector,Sub-sector,Sub-sub-sector,megatonnes_CO2eq
 2007,Nunavut,25,Heavy Industry,,,,0.174114058
 2007,Nunavut,26,Heavy Industry,Mining,,,0.173881494
 2007,Nunavut,32,Heavy Industry,Chemicals and Fertilizers,,,0.000232564
-2007,Nunavut,45,"Light Manufacturing, Construction and Forest Resources",,,,x
+2007,Nunavut,45,"Light Manufacturing, Construction and Forest Resources",,,,
 2007,Nunavut,46,"Light Manufacturing, Construction and Forest Resources",Light Manufacturing,,,0.001043219
-2007,Nunavut,47,"Light Manufacturing, Construction and Forest Resources",Construction,,,x
+2007,Nunavut,47,"Light Manufacturing, Construction and Forest Resources",Construction,,,
 2007,Nunavut,33,Buildings,,,,0.00516779
 2007,Nunavut,34,Buildings,Service Industry,,,0.004914741
 2007,Nunavut,35,Buildings,Residential,,,0.000253048
@@ -10349,7 +10349,7 @@ Year,Region,Index,Source,Sector,Sub-sector,Sub-sub-sector,megatonnes_CO2eq
 2008,Northwest Territories,12,Oil and Gas,Upstream Oil and Gas,"Oil, Natural Gas and CO2  Transmission",,0.003542758
 2008,Northwest Territories,13,Oil and Gas,Downstream Oil and Gas,,,0.000238452
 2008,Northwest Territories,15,Oil and Gas,Downstream Oil and Gas,Natural Gas Distribution,,0.000238452
-2008,Northwest Territories,16,Electricity,,,,x
+2008,Northwest Territories,16,Electricity,,,,
 2008,Northwest Territories,17,Transport,,,,0.673203078
 2008,Northwest Territories,18,Transport,Passenger Transport,,,0.260287703
 2008,Northwest Territories,19,Transport,Passenger Transport,"Cars, Light Trucks and Motorcycles",,0.072741047
@@ -10361,9 +10361,9 @@ Year,Region,Index,Source,Sector,Sub-sector,Sub-sub-sector,megatonnes_CO2eq
 2008,Northwest Territories,25,Heavy Industry,,,,0.318219743
 2008,Northwest Territories,26,Heavy Industry,Mining,,,0.317364943
 2008,Northwest Territories,32,Heavy Industry,Chemicals and Fertilizers,,,0.0008548
-2008,Northwest Territories,45,"Light Manufacturing, Construction and Forest Resources",,,,x
+2008,Northwest Territories,45,"Light Manufacturing, Construction and Forest Resources",,,,
 2008,Northwest Territories,46,"Light Manufacturing, Construction and Forest Resources",Light Manufacturing,,,0.001573519
-2008,Northwest Territories,47,"Light Manufacturing, Construction and Forest Resources",Construction,,,x
+2008,Northwest Territories,47,"Light Manufacturing, Construction and Forest Resources",Construction,,,
 2008,Northwest Territories,48,"Light Manufacturing, Construction and Forest Resources",Forest Resources,,,0.001321996
 2008,Northwest Territories,33,Buildings,,,,0.34833139
 2008,Northwest Territories,34,Buildings,Service Industry,,,0.216473633
@@ -10372,7 +10372,7 @@ Year,Region,Index,Source,Sector,Sub-sector,Sub-sub-sector,megatonnes_CO2eq
 2008,Northwest Territories,41,Waste,Solid Waste,,,0.025482861
 2008,Northwest Territories,42,Waste,Wastewater,,,0.00345495
 2008,Nunavut,0,Territorial Inventory Total,,,,0.624435864
-2008,Nunavut,16,Electricity,,,,x
+2008,Nunavut,16,Electricity,,,,
 2008,Nunavut,17,Transport,,,,0.33702223
 2008,Nunavut,18,Transport,Passenger Transport,,,0.156741755
 2008,Nunavut,19,Transport,Passenger Transport,"Cars, Light Trucks and Motorcycles",,0.023464933
@@ -10384,9 +10384,9 @@ Year,Region,Index,Source,Sector,Sub-sector,Sub-sub-sector,megatonnes_CO2eq
 2008,Nunavut,25,Heavy Industry,,,,0.134678453
 2008,Nunavut,26,Heavy Industry,Mining,,,0.134025083
 2008,Nunavut,32,Heavy Industry,Chemicals and Fertilizers,,,0.00065337
-2008,Nunavut,45,"Light Manufacturing, Construction and Forest Resources",,,,x
+2008,Nunavut,45,"Light Manufacturing, Construction and Forest Resources",,,,
 2008,Nunavut,46,"Light Manufacturing, Construction and Forest Resources",Light Manufacturing,,,0.000982686
-2008,Nunavut,47,"Light Manufacturing, Construction and Forest Resources",Construction,,,x
+2008,Nunavut,47,"Light Manufacturing, Construction and Forest Resources",Construction,,,
 2008,Nunavut,33,Buildings,,,,0.005531507
 2008,Nunavut,34,Buildings,Service Industry,,,0.005239088
 2008,Nunavut,35,Buildings,Residential,,,0.000292419
@@ -10903,7 +10903,7 @@ Year,Region,Index,Source,Sector,Sub-sector,Sub-sub-sector,megatonnes_CO2eq
 2009,Northwest Territories,12,Oil and Gas,Upstream Oil and Gas,"Oil, Natural Gas and CO2  Transmission",,0.004184925
 2009,Northwest Territories,13,Oil and Gas,Downstream Oil and Gas,,,0.000213975
 2009,Northwest Territories,15,Oil and Gas,Downstream Oil and Gas,Natural Gas Distribution,,0.000213975
-2009,Northwest Territories,16,Electricity,,,,x
+2009,Northwest Territories,16,Electricity,,,,
 2009,Northwest Territories,17,Transport,,,,0.570940559
 2009,Northwest Territories,18,Transport,Passenger Transport,,,0.247492321
 2009,Northwest Territories,19,Transport,Passenger Transport,"Cars, Light Trucks and Motorcycles",,0.10194959
@@ -10915,9 +10915,9 @@ Year,Region,Index,Source,Sector,Sub-sector,Sub-sub-sector,megatonnes_CO2eq
 2009,Northwest Territories,25,Heavy Industry,,,,0.383475092
 2009,Northwest Territories,26,Heavy Industry,Mining,,,0.383328298
 2009,Northwest Territories,32,Heavy Industry,Chemicals and Fertilizers,,,0.000146794
-2009,Northwest Territories,45,"Light Manufacturing, Construction and Forest Resources",,,,x
+2009,Northwest Territories,45,"Light Manufacturing, Construction and Forest Resources",,,,
 2009,Northwest Territories,46,"Light Manufacturing, Construction and Forest Resources",Light Manufacturing,,,0.001429523
-2009,Northwest Territories,47,"Light Manufacturing, Construction and Forest Resources",Construction,,,x
+2009,Northwest Territories,47,"Light Manufacturing, Construction and Forest Resources",Construction,,,
 2009,Northwest Territories,48,"Light Manufacturing, Construction and Forest Resources",Forest Resources,,,0.001560355
 2009,Northwest Territories,33,Buildings,,,,0.363114481
 2009,Northwest Territories,34,Buildings,Service Industry,,,0.237828686
@@ -10926,7 +10926,7 @@ Year,Region,Index,Source,Sector,Sub-sector,Sub-sub-sector,megatonnes_CO2eq
 2009,Northwest Territories,41,Waste,Solid Waste,,,0.026133598
 2009,Northwest Territories,42,Waste,Wastewater,,,0.003580883
 2009,Nunavut,0,Territorial Inventory Total,,,,0.595778642
-2009,Nunavut,16,Electricity,,,,x
+2009,Nunavut,16,Electricity,,,,
 2009,Nunavut,17,Transport,,,,0.302423979
 2009,Nunavut,18,Transport,Passenger Transport,,,0.139296992
 2009,Nunavut,19,Transport,Passenger Transport,"Cars, Light Trucks and Motorcycles",,0.024011694
@@ -10938,9 +10938,9 @@ Year,Region,Index,Source,Sector,Sub-sector,Sub-sub-sector,megatonnes_CO2eq
 2009,Nunavut,25,Heavy Industry,,,,0.143130813
 2009,Nunavut,26,Heavy Industry,Mining,,,0.143016284
 2009,Nunavut,32,Heavy Industry,Chemicals and Fertilizers,,,0.000114529
-2009,Nunavut,45,"Light Manufacturing, Construction and Forest Resources",,,,x
+2009,Nunavut,45,"Light Manufacturing, Construction and Forest Resources",,,,
 2009,Nunavut,46,"Light Manufacturing, Construction and Forest Resources",Light Manufacturing,,,0.001112133
-2009,Nunavut,47,"Light Manufacturing, Construction and Forest Resources",Construction,,,x
+2009,Nunavut,47,"Light Manufacturing, Construction and Forest Resources",Construction,,,
 2009,Nunavut,33,Buildings,,,,0.006119025
 2009,Nunavut,34,Buildings,Service Industry,,,0.005649948
 2009,Nunavut,35,Buildings,Residential,,,0.000469077
@@ -11458,7 +11458,7 @@ Year,Region,Index,Source,Sector,Sub-sector,Sub-sub-sector,megatonnes_CO2eq
 2010,Northwest Territories,12,Oil and Gas,Upstream Oil and Gas,"Oil, Natural Gas and CO2  Transmission",,0.004020166
 2010,Northwest Territories,13,Oil and Gas,Downstream Oil and Gas,,,0.000193997
 2010,Northwest Territories,15,Oil and Gas,Downstream Oil and Gas,Natural Gas Distribution,,0.000193997
-2010,Northwest Territories,16,Electricity,,,,x
+2010,Northwest Territories,16,Electricity,,,,
 2010,Northwest Territories,17,Transport,,,,0.497368852
 2010,Northwest Territories,18,Transport,Passenger Transport,,,0.219266001
 2010,Northwest Territories,19,Transport,Passenger Transport,"Cars, Light Trucks and Motorcycles",,0.083668976
@@ -11470,9 +11470,9 @@ Year,Region,Index,Source,Sector,Sub-sector,Sub-sub-sector,megatonnes_CO2eq
 2010,Northwest Territories,25,Heavy Industry,,,,0.437579266
 2010,Northwest Territories,26,Heavy Industry,Mining,,,0.436976571
 2010,Northwest Territories,32,Heavy Industry,Chemicals and Fertilizers,,,0.000602695
-2010,Northwest Territories,45,"Light Manufacturing, Construction and Forest Resources",,,,x
+2010,Northwest Territories,45,"Light Manufacturing, Construction and Forest Resources",,,,
 2010,Northwest Territories,46,"Light Manufacturing, Construction and Forest Resources",Light Manufacturing,,,0.001902309
-2010,Northwest Territories,47,"Light Manufacturing, Construction and Forest Resources",Construction,,,x
+2010,Northwest Territories,47,"Light Manufacturing, Construction and Forest Resources",Construction,,,
 2010,Northwest Territories,48,"Light Manufacturing, Construction and Forest Resources",Forest Resources,,,0.001729749
 2010,Northwest Territories,33,Buildings,,,,0.321378187
 2010,Northwest Territories,34,Buildings,Service Industry,,,0.222459283
@@ -11481,7 +11481,7 @@ Year,Region,Index,Source,Sector,Sub-sector,Sub-sub-sector,megatonnes_CO2eq
 2010,Northwest Territories,41,Waste,Solid Waste,,,0.026749207
 2010,Northwest Territories,42,Waste,Wastewater,,,0.003579496
 2010,Nunavut,0,Territorial Inventory Total,,,,0.600262401
-2010,Nunavut,16,Electricity,,,,x
+2010,Nunavut,16,Electricity,,,,
 2010,Nunavut,17,Transport,,,,0.305082921
 2010,Nunavut,18,Transport,Passenger Transport,,,0.144088935
 2010,Nunavut,19,Transport,Passenger Transport,"Cars, Light Trucks and Motorcycles",,0.024267372
@@ -11493,9 +11493,9 @@ Year,Region,Index,Source,Sector,Sub-sector,Sub-sub-sector,megatonnes_CO2eq
 2010,Nunavut,25,Heavy Industry,,,,0.143819596
 2010,Nunavut,26,Heavy Industry,Mining,,,0.143349505
 2010,Nunavut,32,Heavy Industry,Chemicals and Fertilizers,,,0.000470091
-2010,Nunavut,45,"Light Manufacturing, Construction and Forest Resources",,,,x
+2010,Nunavut,45,"Light Manufacturing, Construction and Forest Resources",,,,
 2010,Nunavut,46,"Light Manufacturing, Construction and Forest Resources",Light Manufacturing,,,0.001197577
-2010,Nunavut,47,"Light Manufacturing, Construction and Forest Resources",Construction,,,x
+2010,Nunavut,47,"Light Manufacturing, Construction and Forest Resources",Construction,,,
 2010,Nunavut,33,Buildings,,,,0.006562657
 2010,Nunavut,34,Buildings,Service Industry,,,0.005877842
 2010,Nunavut,35,Buildings,Residential,,,0.000684815
@@ -12012,7 +12012,7 @@ Year,Region,Index,Source,Sector,Sub-sector,Sub-sub-sector,megatonnes_CO2eq
 2011,Northwest Territories,12,Oil and Gas,Upstream Oil and Gas,"Oil, Natural Gas and CO2  Transmission",,0.003455942
 2011,Northwest Territories,13,Oil and Gas,Downstream Oil and Gas,,,0.00019532
 2011,Northwest Territories,15,Oil and Gas,Downstream Oil and Gas,Natural Gas Distribution,,0.00019532
-2011,Northwest Territories,16,Electricity,,,,x
+2011,Northwest Territories,16,Electricity,,,,
 2011,Northwest Territories,17,Transport,,,,0.59947872
 2011,Northwest Territories,18,Transport,Passenger Transport,,,0.250297314
 2011,Northwest Territories,19,Transport,Passenger Transport,"Cars, Light Trucks and Motorcycles",,0.10360499
@@ -12024,9 +12024,9 @@ Year,Region,Index,Source,Sector,Sub-sector,Sub-sub-sector,megatonnes_CO2eq
 2011,Northwest Territories,25,Heavy Industry,,,,0.316704754
 2011,Northwest Territories,26,Heavy Industry,Mining,,,0.315934053
 2011,Northwest Territories,32,Heavy Industry,Chemicals and Fertilizers,,,0.000770701
-2011,Northwest Territories,45,"Light Manufacturing, Construction and Forest Resources",,,,x
+2011,Northwest Territories,45,"Light Manufacturing, Construction and Forest Resources",,,,
 2011,Northwest Territories,46,"Light Manufacturing, Construction and Forest Resources",Light Manufacturing,,,0.00150327
-2011,Northwest Territories,47,"Light Manufacturing, Construction and Forest Resources",Construction,,,x
+2011,Northwest Territories,47,"Light Manufacturing, Construction and Forest Resources",Construction,,,
 2011,Northwest Territories,48,"Light Manufacturing, Construction and Forest Resources",Forest Resources,,,0.001117683
 2011,Northwest Territories,33,Buildings,,,,0.323615562
 2011,Northwest Territories,34,Buildings,Service Industry,,,0.216112471
@@ -12035,7 +12035,7 @@ Year,Region,Index,Source,Sector,Sub-sector,Sub-sub-sector,megatonnes_CO2eq
 2011,Northwest Territories,41,Waste,Solid Waste,,,0.027340914
 2011,Northwest Territories,42,Waste,Wastewater,,,0.003591084
 2011,Nunavut,0,Territorial Inventory Total,,,,0.626106989
-2011,Nunavut,16,Electricity,,,,x
+2011,Nunavut,16,Electricity,,,,
 2011,Nunavut,17,Transport,,,,0.324747808
 2011,Nunavut,18,Transport,Passenger Transport,,,0.159041227
 2011,Nunavut,19,Transport,Passenger Transport,"Cars, Light Trucks and Motorcycles",,0.025928909
@@ -12047,9 +12047,9 @@ Year,Region,Index,Source,Sector,Sub-sector,Sub-sub-sector,megatonnes_CO2eq
 2011,Nunavut,25,Heavy Industry,,,,0.194611161
 2011,Nunavut,26,Heavy Industry,Mining,,,0.193994704
 2011,Nunavut,32,Heavy Industry,Chemicals and Fertilizers,,,0.000616457
-2011,Nunavut,45,"Light Manufacturing, Construction and Forest Resources",,,,x
+2011,Nunavut,45,"Light Manufacturing, Construction and Forest Resources",,,,
 2011,Nunavut,46,"Light Manufacturing, Construction and Forest Resources",Light Manufacturing,,,0.001575894
-2011,Nunavut,47,"Light Manufacturing, Construction and Forest Resources",Construction,,,x
+2011,Nunavut,47,"Light Manufacturing, Construction and Forest Resources",Construction,,,
 2011,Nunavut,33,Buildings,,,,0.007537009
 2011,Nunavut,34,Buildings,Service Industry,,,0.006799039
 2011,Nunavut,35,Buildings,Residential,,,0.00073797
@@ -12567,7 +12567,7 @@ Year,Region,Index,Source,Sector,Sub-sector,Sub-sub-sector,megatonnes_CO2eq
 2012,Northwest Territories,12,Oil and Gas,Upstream Oil and Gas,"Oil, Natural Gas and CO2  Transmission",,0.003936163
 2012,Northwest Territories,13,Oil and Gas,Downstream Oil and Gas,,,0.000183809
 2012,Northwest Territories,15,Oil and Gas,Downstream Oil and Gas,Natural Gas Distribution,,0.000183809
-2012,Northwest Territories,16,Electricity,,,,x
+2012,Northwest Territories,16,Electricity,,,,
 2012,Northwest Territories,17,Transport,,,,0.624947125
 2012,Northwest Territories,18,Transport,Passenger Transport,,,0.276106385
 2012,Northwest Territories,19,Transport,Passenger Transport,"Cars, Light Trucks and Motorcycles",,0.104793041
@@ -12579,9 +12579,9 @@ Year,Region,Index,Source,Sector,Sub-sector,Sub-sub-sector,megatonnes_CO2eq
 2012,Northwest Territories,25,Heavy Industry,,,,0.442537736
 2012,Northwest Territories,26,Heavy Industry,Mining,,,0.441757493
 2012,Northwest Territories,32,Heavy Industry,Chemicals and Fertilizers,,,0.000780243
-2012,Northwest Territories,45,"Light Manufacturing, Construction and Forest Resources",,,,x
+2012,Northwest Territories,45,"Light Manufacturing, Construction and Forest Resources",,,,
 2012,Northwest Territories,46,"Light Manufacturing, Construction and Forest Resources",Light Manufacturing,,,0.00256524
-2012,Northwest Territories,47,"Light Manufacturing, Construction and Forest Resources",Construction,,,x
+2012,Northwest Territories,47,"Light Manufacturing, Construction and Forest Resources",Construction,,,
 2012,Northwest Territories,48,"Light Manufacturing, Construction and Forest Resources",Forest Resources,,,0.00118622
 2012,Northwest Territories,33,Buildings,,,,0.276194936
 2012,Northwest Territories,34,Buildings,Service Industry,,,0.184653901
@@ -12590,7 +12590,7 @@ Year,Region,Index,Source,Sector,Sub-sector,Sub-sub-sector,megatonnes_CO2eq
 2012,Northwest Territories,41,Waste,Solid Waste,,,0.027889753
 2012,Northwest Territories,42,Waste,Wastewater,,,0.003613153
 2012,Nunavut,0,Territorial Inventory Total,,,,0.667900134
-2012,Nunavut,16,Electricity,,,,x
+2012,Nunavut,16,Electricity,,,,
 2012,Nunavut,17,Transport,,,,0.356773953
 2012,Nunavut,18,Transport,Passenger Transport,,,0.173569969
 2012,Nunavut,19,Transport,Passenger Transport,"Cars, Light Trucks and Motorcycles",,0.028755408
@@ -12602,9 +12602,9 @@ Year,Region,Index,Source,Sector,Sub-sector,Sub-sub-sector,megatonnes_CO2eq
 2012,Nunavut,25,Heavy Industry,,,,0.20227531
 2012,Nunavut,26,Heavy Industry,Mining,,,0.201640127
 2012,Nunavut,32,Heavy Industry,Chemicals and Fertilizers,,,0.000635184
-2012,Nunavut,45,"Light Manufacturing, Construction and Forest Resources",,,,x
+2012,Nunavut,45,"Light Manufacturing, Construction and Forest Resources",,,,
 2012,Nunavut,46,"Light Manufacturing, Construction and Forest Resources",Light Manufacturing,,,0.001679723
-2012,Nunavut,47,"Light Manufacturing, Construction and Forest Resources",Construction,,,x
+2012,Nunavut,47,"Light Manufacturing, Construction and Forest Resources",Construction,,,
 2012,Nunavut,33,Buildings,,,,0.008171396
 2012,Nunavut,34,Buildings,Service Industry,,,0.007430645
 2012,Nunavut,35,Buildings,Residential,,,0.000740751
@@ -13121,7 +13121,7 @@ Year,Region,Index,Source,Sector,Sub-sector,Sub-sub-sector,megatonnes_CO2eq
 2013,Northwest Territories,12,Oil and Gas,Upstream Oil and Gas,"Oil, Natural Gas and CO2  Transmission",,0.003443219
 2013,Northwest Territories,13,Oil and Gas,Downstream Oil and Gas,,,0.000179761
 2013,Northwest Territories,15,Oil and Gas,Downstream Oil and Gas,Natural Gas Distribution,,0.000179761
-2013,Northwest Territories,16,Electricity,,,,x
+2013,Northwest Territories,16,Electricity,,,,
 2013,Northwest Territories,17,Transport,,,,0.635125313
 2013,Northwest Territories,18,Transport,Passenger Transport,,,0.270850139
 2013,Northwest Territories,19,Transport,Passenger Transport,"Cars, Light Trucks and Motorcycles",,0.109745112
@@ -13133,9 +13133,9 @@ Year,Region,Index,Source,Sector,Sub-sector,Sub-sub-sector,megatonnes_CO2eq
 2013,Northwest Territories,25,Heavy Industry,,,,0.511104001
 2013,Northwest Territories,26,Heavy Industry,Mining,,,0.510659329
 2013,Northwest Territories,32,Heavy Industry,Chemicals and Fertilizers,,,0.000444673
-2013,Northwest Territories,45,"Light Manufacturing, Construction and Forest Resources",,,,x
+2013,Northwest Territories,45,"Light Manufacturing, Construction and Forest Resources",,,,
 2013,Northwest Territories,46,"Light Manufacturing, Construction and Forest Resources",Light Manufacturing,,,0.002244776
-2013,Northwest Territories,47,"Light Manufacturing, Construction and Forest Resources",Construction,,,x
+2013,Northwest Territories,47,"Light Manufacturing, Construction and Forest Resources",Construction,,,
 2013,Northwest Territories,48,"Light Manufacturing, Construction and Forest Resources",Forest Resources,,,0.001957413
 2013,Northwest Territories,33,Buildings,,,,0.287715566
 2013,Northwest Territories,34,Buildings,Service Industry,,,0.19937738
@@ -13144,7 +13144,7 @@ Year,Region,Index,Source,Sector,Sub-sector,Sub-sub-sector,megatonnes_CO2eq
 2013,Northwest Territories,41,Waste,Solid Waste,,,0.028420123
 2013,Northwest Territories,42,Waste,Wastewater,,,0.003618223
 2013,Nunavut,0,Territorial Inventory Total,,,,0.692571199
-2013,Nunavut,16,Electricity,,,,x
+2013,Nunavut,16,Electricity,,,,
 2013,Nunavut,17,Transport,,,,0.366024594
 2013,Nunavut,18,Transport,Passenger Transport,,,0.181215684
 2013,Nunavut,19,Transport,Passenger Transport,"Cars, Light Trucks and Motorcycles",,0.030211796
@@ -13156,9 +13156,9 @@ Year,Region,Index,Source,Sector,Sub-sector,Sub-sub-sector,megatonnes_CO2eq
 2013,Nunavut,25,Heavy Industry,,,,0.2200721
 2013,Nunavut,26,Heavy Industry,Mining,,,0.2197057
 2013,Nunavut,32,Heavy Industry,Chemicals and Fertilizers,,,0.0003664
-2013,Nunavut,45,"Light Manufacturing, Construction and Forest Resources",,,,x
+2013,Nunavut,45,"Light Manufacturing, Construction and Forest Resources",,,,
 2013,Nunavut,46,"Light Manufacturing, Construction and Forest Resources",Light Manufacturing,,,0.00185962
-2013,Nunavut,47,"Light Manufacturing, Construction and Forest Resources",Construction,,,x
+2013,Nunavut,47,"Light Manufacturing, Construction and Forest Resources",Construction,,,
 2013,Nunavut,33,Buildings,,,,0.009539452
 2013,Nunavut,34,Buildings,Service Industry,,,0.008786664
 2013,Nunavut,35,Buildings,Residential,,,0.000752787
@@ -13674,7 +13674,7 @@ Year,Region,Index,Source,Sector,Sub-sector,Sub-sub-sector,megatonnes_CO2eq
 2014,Northwest Territories,12,Oil and Gas,Upstream Oil and Gas,"Oil, Natural Gas and CO2  Transmission",,0.002033863
 2014,Northwest Territories,13,Oil and Gas,Downstream Oil and Gas,,,0.000174795
 2014,Northwest Territories,15,Oil and Gas,Downstream Oil and Gas,Natural Gas Distribution,,0.000174795
-2014,Northwest Territories,16,Electricity,,,,x
+2014,Northwest Territories,16,Electricity,,,,
 2014,Northwest Territories,17,Transport,,,,0.640462981
 2014,Northwest Territories,18,Transport,Passenger Transport,,,0.255504913
 2014,Northwest Territories,19,Transport,Passenger Transport,"Cars, Light Trucks and Motorcycles",,0.105293676
@@ -13691,9 +13691,9 @@ Year,Region,Index,Source,Sector,Sub-sector,Sub-sub-sector,megatonnes_CO2eq
 2014,Northwest Territories,30,Heavy Industry,Cement,,,2.26E-05
 2014,Northwest Territories,31,Heavy Industry,Lime and Gypsum,,,2.26E-05
 2014,Northwest Territories,32,Heavy Industry,Chemicals and Fertilizers,,,0.000963483
-2014,Northwest Territories,45,"Light Manufacturing, Construction and Forest Resources",,,,x
+2014,Northwest Territories,45,"Light Manufacturing, Construction and Forest Resources",,,,
 2014,Northwest Territories,46,"Light Manufacturing, Construction and Forest Resources",Light Manufacturing,,,0.002314188
-2014,Northwest Territories,47,"Light Manufacturing, Construction and Forest Resources",Construction,,,x
+2014,Northwest Territories,47,"Light Manufacturing, Construction and Forest Resources",Construction,,,
 2014,Northwest Territories,48,"Light Manufacturing, Construction and Forest Resources",Forest Resources,,,0.001607686
 2014,Northwest Territories,33,Buildings,,,,0.298078346
 2014,Northwest Territories,34,Buildings,Service Industry,,,0.194323291
@@ -13702,7 +13702,7 @@ Year,Region,Index,Source,Sector,Sub-sector,Sub-sub-sector,megatonnes_CO2eq
 2014,Northwest Territories,41,Waste,Solid Waste,,,0.028945515
 2014,Northwest Territories,42,Waste,Wastewater,,,0.003587397
 2014,Nunavut,0,Territorial Inventory Total,,,,0.686587895
-2014,Nunavut,16,Electricity,,,,x
+2014,Nunavut,16,Electricity,,,,
 2014,Nunavut,17,Transport,,,,0.352227601
 2014,Nunavut,18,Transport,Passenger Transport,,,0.172700485
 2014,Nunavut,19,Transport,Passenger Transport,"Cars, Light Trucks and Motorcycles",,0.029330393
@@ -13714,9 +13714,9 @@ Year,Region,Index,Source,Sector,Sub-sector,Sub-sub-sector,megatonnes_CO2eq
 2014,Nunavut,25,Heavy Industry,,,,0.177155801
 2014,Nunavut,26,Heavy Industry,Mining,,,0.176431717
 2014,Nunavut,32,Heavy Industry,Chemicals and Fertilizers,,,0.000724084
-2014,Nunavut,45,"Light Manufacturing, Construction and Forest Resources",,,,x
+2014,Nunavut,45,"Light Manufacturing, Construction and Forest Resources",,,,
 2014,Nunavut,46,"Light Manufacturing, Construction and Forest Resources",Light Manufacturing,,,0.001648
-2014,Nunavut,47,"Light Manufacturing, Construction and Forest Resources",Construction,,,x
+2014,Nunavut,47,"Light Manufacturing, Construction and Forest Resources",Construction,,,
 2014,Nunavut,33,Buildings,,,,0.011093513
 2014,Nunavut,34,Buildings,Service Industry,,,0.010039332
 2014,Nunavut,35,Buildings,Residential,,,0.001054182
@@ -14232,7 +14232,7 @@ Year,Region,Index,Source,Sector,Sub-sector,Sub-sub-sector,megatonnes_CO2eq
 2015,Northwest Territories,12,Oil and Gas,Upstream Oil and Gas,"Oil, Natural Gas and CO2  Transmission",,0.001727626
 2015,Northwest Territories,13,Oil and Gas,Downstream Oil and Gas,,,0.000174795
 2015,Northwest Territories,15,Oil and Gas,Downstream Oil and Gas,Natural Gas Distribution,,0.000174795
-2015,Northwest Territories,16,Electricity,,,,x
+2015,Northwest Territories,16,Electricity,,,,
 2015,Northwest Territories,17,Transport,,,,0.673398476
 2015,Northwest Territories,18,Transport,Passenger Transport,,,0.263550899
 2015,Northwest Territories,19,Transport,Passenger Transport,"Cars, Light Trucks and Motorcycles",,0.108022584
@@ -14249,9 +14249,9 @@ Year,Region,Index,Source,Sector,Sub-sector,Sub-sub-sector,megatonnes_CO2eq
 2015,Northwest Territories,30,Heavy Industry,Cement,,,2.26E-05
 2015,Northwest Territories,31,Heavy Industry,Lime and Gypsum,,,2.26E-05
 2015,Northwest Territories,32,Heavy Industry,Chemicals and Fertilizers,,,0.000613
-2015,Northwest Territories,45,"Light Manufacturing, Construction and Forest Resources",,,,x
+2015,Northwest Territories,45,"Light Manufacturing, Construction and Forest Resources",,,,
 2015,Northwest Territories,46,"Light Manufacturing, Construction and Forest Resources",Light Manufacturing,,,0.001951847
-2015,Northwest Territories,47,"Light Manufacturing, Construction and Forest Resources",Construction,,,x
+2015,Northwest Territories,47,"Light Manufacturing, Construction and Forest Resources",Construction,,,
 2015,Northwest Territories,48,"Light Manufacturing, Construction and Forest Resources",Forest Resources,,,0.001453457
 2015,Northwest Territories,33,Buildings,,,,0.304008671
 2015,Northwest Territories,34,Buildings,Service Industry,,,0.207076249
@@ -14260,7 +14260,7 @@ Year,Region,Index,Source,Sector,Sub-sector,Sub-sub-sector,megatonnes_CO2eq
 2015,Northwest Territories,41,Waste,Solid Waste,,,0.029461693
 2015,Northwest Territories,42,Waste,Wastewater,,,0.003713491
 2015,Nunavut,0,Territorial Inventory Total,,,,0.633151128
-2015,Nunavut,16,Electricity,,,,x
+2015,Nunavut,16,Electricity,,,,
 2015,Nunavut,17,Transport,,,,0.342849948
 2015,Nunavut,18,Transport,Passenger Transport,,,0.168197704
 2015,Nunavut,19,Transport,Passenger Transport,"Cars, Light Trucks and Motorcycles",,0.029350866
@@ -14272,9 +14272,9 @@ Year,Region,Index,Source,Sector,Sub-sector,Sub-sub-sector,megatonnes_CO2eq
 2015,Nunavut,25,Heavy Industry,,,,0.137212558
 2015,Nunavut,26,Heavy Industry,Mining,,,0.136775163
 2015,Nunavut,32,Heavy Industry,Chemicals and Fertilizers,,,0.000437395
-2015,Nunavut,45,"Light Manufacturing, Construction and Forest Resources",,,,x
+2015,Nunavut,45,"Light Manufacturing, Construction and Forest Resources",,,,
 2015,Nunavut,46,"Light Manufacturing, Construction and Forest Resources",Light Manufacturing,,,0.001437366
-2015,Nunavut,47,"Light Manufacturing, Construction and Forest Resources",Construction,,,x
+2015,Nunavut,47,"Light Manufacturing, Construction and Forest Resources",Construction,,,
 2015,Nunavut,33,Buildings,,,,0.011712075
 2015,Nunavut,34,Buildings,Service Industry,,,0.010453782
 2015,Nunavut,35,Buildings,Residential,,,0.001258293
@@ -14789,7 +14789,7 @@ Year,Region,Index,Source,Sector,Sub-sector,Sub-sub-sector,megatonnes_CO2eq
 2016,Northwest Territories,12,Oil and Gas,Upstream Oil and Gas,"Oil, Natural Gas and CO2  Transmission",,0.001227141
 2016,Northwest Territories,13,Oil and Gas,Downstream Oil and Gas,,,0.000314442
 2016,Northwest Territories,15,Oil and Gas,Downstream Oil and Gas,Natural Gas Distribution,,0.000314442
-2016,Northwest Territories,16,Electricity,,,,x
+2016,Northwest Territories,16,Electricity,,,,
 2016,Northwest Territories,17,Transport,,,,0.685604386
 2016,Northwest Territories,18,Transport,Passenger Transport,,,0.257865725
 2016,Northwest Territories,19,Transport,Passenger Transport,"Cars, Light Trucks and Motorcycles",,0.113096861
@@ -14801,9 +14801,9 @@ Year,Region,Index,Source,Sector,Sub-sector,Sub-sub-sector,megatonnes_CO2eq
 2016,Northwest Territories,25,Heavy Industry,,,,0.363840035
 2016,Northwest Territories,26,Heavy Industry,Mining,,,0.363274436
 2016,Northwest Territories,32,Heavy Industry,Chemicals and Fertilizers,,,0.000565599
-2016,Northwest Territories,45,"Light Manufacturing, Construction and Forest Resources",,,,x
+2016,Northwest Territories,45,"Light Manufacturing, Construction and Forest Resources",,,,
 2016,Northwest Territories,46,"Light Manufacturing, Construction and Forest Resources",Light Manufacturing,,,0.001678198
-2016,Northwest Territories,47,"Light Manufacturing, Construction and Forest Resources",Construction,,,x
+2016,Northwest Territories,47,"Light Manufacturing, Construction and Forest Resources",Construction,,,
 2016,Northwest Territories,48,"Light Manufacturing, Construction and Forest Resources",Forest Resources,,,0.001241639
 2016,Northwest Territories,33,Buildings,,,,0.113627727
 2016,Northwest Territories,34,Buildings,Service Industry,,,0.04900654
@@ -14812,7 +14812,7 @@ Year,Region,Index,Source,Sector,Sub-sector,Sub-sub-sector,megatonnes_CO2eq
 2016,Northwest Territories,41,Waste,Solid Waste,,,0.029965457
 2016,Northwest Territories,42,Waste,Wastewater,,,0.003638683
 2016,Nunavut,0,Territorial Inventory Total,,,,0.738839398
-2016,Nunavut,16,Electricity,,,,x
+2016,Nunavut,16,Electricity,,,,
 2016,Nunavut,17,Transport,,,,0.382507575
 2016,Nunavut,18,Transport,Passenger Transport,,,0.166075871
 2016,Nunavut,19,Transport,Passenger Transport,"Cars, Light Trucks and Motorcycles",,0.035524761
@@ -14824,9 +14824,9 @@ Year,Region,Index,Source,Sector,Sub-sector,Sub-sub-sector,megatonnes_CO2eq
 2016,Nunavut,25,Heavy Industry,,,,0.179216752
 2016,Nunavut,26,Heavy Industry,Mining,,,0.178743005
 2016,Nunavut,32,Heavy Industry,Chemicals and Fertilizers,,,0.000473748
-2016,Nunavut,45,"Light Manufacturing, Construction and Forest Resources",,,,x
+2016,Nunavut,45,"Light Manufacturing, Construction and Forest Resources",,,,
 2016,Nunavut,46,"Light Manufacturing, Construction and Forest Resources",Light Manufacturing,,,0.001832684
-2016,Nunavut,47,"Light Manufacturing, Construction and Forest Resources",Construction,,,x
+2016,Nunavut,47,"Light Manufacturing, Construction and Forest Resources",Construction,,,
 2016,Nunavut,33,Buildings,,,,0.012535384
 2016,Nunavut,34,Buildings,Service Industry,,,0.01134371
 2016,Nunavut,35,Buildings,Residential,,,0.001191674
@@ -15340,7 +15340,7 @@ Year,Region,Index,Source,Sector,Sub-sector,Sub-sub-sector,megatonnes_CO2eq
 2017,Northwest Territories,12,Oil and Gas,Upstream Oil and Gas,"Oil, Natural Gas and CO2  Transmission",,0.001227044
 2017,Northwest Territories,13,Oil and Gas,Downstream Oil and Gas,,,0.000314442
 2017,Northwest Territories,15,Oil and Gas,Downstream Oil and Gas,Natural Gas Distribution,,0.000314442
-2017,Northwest Territories,16,Electricity,,,,x
+2017,Northwest Territories,16,Electricity,,,,
 2017,Northwest Territories,17,Transport,,,,0.792346839
 2017,Northwest Territories,18,Transport,Passenger Transport,,,0.278685477
 2017,Northwest Territories,19,Transport,Passenger Transport,"Cars, Light Trucks and Motorcycles",,0.116518375
@@ -15352,9 +15352,9 @@ Year,Region,Index,Source,Sector,Sub-sector,Sub-sub-sector,megatonnes_CO2eq
 2017,Northwest Territories,25,Heavy Industry,,,,0.346394715
 2017,Northwest Territories,26,Heavy Industry,Mining,,,0.345827412
 2017,Northwest Territories,32,Heavy Industry,Chemicals and Fertilizers,,,0.000567304
-2017,Northwest Territories,45,"Light Manufacturing, Construction and Forest Resources",,,,x
+2017,Northwest Territories,45,"Light Manufacturing, Construction and Forest Resources",,,,
 2017,Northwest Territories,46,"Light Manufacturing, Construction and Forest Resources",Light Manufacturing,,,0.001778208
-2017,Northwest Territories,47,"Light Manufacturing, Construction and Forest Resources",Construction,,,x
+2017,Northwest Territories,47,"Light Manufacturing, Construction and Forest Resources",Construction,,,
 2017,Northwest Territories,48,"Light Manufacturing, Construction and Forest Resources",Forest Resources,,,0.001341477
 2017,Northwest Territories,33,Buildings,,,,0.113877157
 2017,Northwest Territories,34,Buildings,Service Industry,,,0.064118788
@@ -15363,7 +15363,7 @@ Year,Region,Index,Source,Sector,Sub-sector,Sub-sub-sector,megatonnes_CO2eq
 2017,Northwest Territories,41,Waste,Solid Waste,,,0.030472805
 2017,Northwest Territories,42,Waste,Wastewater,,,0.003657715
 2017,Nunavut,0,Territorial Inventory Total,,,,0.742525373
-2017,Nunavut,16,Electricity,,,,x
+2017,Nunavut,16,Electricity,,,,
 2017,Nunavut,17,Transport,,,,0.393200204
 2017,Nunavut,18,Transport,Passenger Transport,,,0.180943831
 2017,Nunavut,19,Transport,Passenger Transport,"Cars, Light Trucks and Motorcycles",,0.035820467
@@ -15375,9 +15375,9 @@ Year,Region,Index,Source,Sector,Sub-sector,Sub-sub-sector,megatonnes_CO2eq
 2017,Nunavut,25,Heavy Industry,,,,0.168786962
 2017,Nunavut,26,Heavy Industry,Mining,,,0.168310486
 2017,Nunavut,32,Heavy Industry,Chemicals and Fertilizers,,,0.000476475
-2017,Nunavut,45,"Light Manufacturing, Construction and Forest Resources",,,,x
+2017,Nunavut,45,"Light Manufacturing, Construction and Forest Resources",,,,
 2017,Nunavut,46,"Light Manufacturing, Construction and Forest Resources",Light Manufacturing,,,0.001839503
-2017,Nunavut,47,"Light Manufacturing, Construction and Forest Resources",Construction,,,x
+2017,Nunavut,47,"Light Manufacturing, Construction and Forest Resources",Construction,,,
 2017,Nunavut,33,Buildings,,,,0.013175576
 2017,Nunavut,34,Buildings,Service Industry,,,0.011723655
 2017,Nunavut,35,Buildings,Residential,,,0.001451921
@@ -15890,7 +15890,7 @@ Year,Region,Index,Source,Sector,Sub-sector,Sub-sub-sector,megatonnes_CO2eq
 2018,Northwest Territories,12,Oil and Gas,Upstream Oil and Gas,"Oil, Natural Gas and CO2  Transmission",,0.00122706
 2018,Northwest Territories,13,Oil and Gas,Downstream Oil and Gas,,,0.000314442
 2018,Northwest Territories,15,Oil and Gas,Downstream Oil and Gas,Natural Gas Distribution,,0.000314442
-2018,Northwest Territories,16,Electricity,,,,x
+2018,Northwest Territories,16,Electricity,,,,
 2018,Northwest Territories,17,Transport,,,,0.760946786
 2018,Northwest Territories,18,Transport,Passenger Transport,,,0.308584928
 2018,Northwest Territories,19,Transport,Passenger Transport,"Cars, Light Trucks and Motorcycles",,0.105177187
@@ -15902,9 +15902,9 @@ Year,Region,Index,Source,Sector,Sub-sector,Sub-sub-sector,megatonnes_CO2eq
 2018,Northwest Territories,25,Heavy Industry,,,,0.407551857
 2018,Northwest Territories,26,Heavy Industry,Mining,,,0.40683859
 2018,Northwest Territories,32,Heavy Industry,Chemicals and Fertilizers,,,0.000713267
-2018,Northwest Territories,45,"Light Manufacturing, Construction and Forest Resources",,,,x
+2018,Northwest Territories,45,"Light Manufacturing, Construction and Forest Resources",,,,
 2018,Northwest Territories,46,"Light Manufacturing, Construction and Forest Resources",Light Manufacturing,,,0.002168356
-2018,Northwest Territories,47,"Light Manufacturing, Construction and Forest Resources",Construction,,,x
+2018,Northwest Territories,47,"Light Manufacturing, Construction and Forest Resources",Construction,,,
 2018,Northwest Territories,48,"Light Manufacturing, Construction and Forest Resources",Forest Resources,,,0.001635332
 2018,Northwest Territories,33,Buildings,,,,0.125804963
 2018,Northwest Territories,34,Buildings,Service Industry,,,0.066691441
@@ -15913,7 +15913,7 @@ Year,Region,Index,Source,Sector,Sub-sector,Sub-sub-sector,megatonnes_CO2eq
 2018,Northwest Territories,41,Waste,Solid Waste,,,0.030931015
 2018,Northwest Territories,42,Waste,Wastewater,,,0.003639519
 2018,Nunavut,0,Territorial Inventory Total,,,,0.735752696
-2018,Nunavut,16,Electricity,,,,x
+2018,Nunavut,16,Electricity,,,,
 2018,Nunavut,17,Transport,,,,0.390667461
 2018,Nunavut,18,Transport,Passenger Transport,,,0.196914316
 2018,Nunavut,19,Transport,Passenger Transport,"Cars, Light Trucks and Motorcycles",,0.03034716
@@ -15925,9 +15925,9 @@ Year,Region,Index,Source,Sector,Sub-sector,Sub-sub-sector,megatonnes_CO2eq
 2018,Nunavut,25,Heavy Industry,,,,0.134879779
 2018,Nunavut,26,Heavy Industry,Mining,,,0.134272841
 2018,Nunavut,32,Heavy Industry,Chemicals and Fertilizers,,,0.000606938
-2018,Nunavut,45,"Light Manufacturing, Construction and Forest Resources",,,,x
+2018,Nunavut,45,"Light Manufacturing, Construction and Forest Resources",,,,
 2018,Nunavut,46,"Light Manufacturing, Construction and Forest Resources",Light Manufacturing,,,0.001657194
-2018,Nunavut,47,"Light Manufacturing, Construction and Forest Resources",Construction,,,x
+2018,Nunavut,47,"Light Manufacturing, Construction and Forest Resources",Construction,,,
 2018,Nunavut,33,Buildings,,,,0.01492298
 2018,Nunavut,34,Buildings,Service Industry,,,0.013034832
 2018,Nunavut,35,Buildings,Residential,,,0.001888148
@@ -16440,7 +16440,7 @@ Year,Region,Index,Source,Sector,Sub-sector,Sub-sub-sector,megatonnes_CO2eq
 2019,Northwest Territories,12,Oil and Gas,Upstream Oil and Gas,"Oil, Natural Gas and CO2  Transmission",,0.001227123
 2019,Northwest Territories,13,Oil and Gas,Downstream Oil and Gas,,,0.000314442
 2019,Northwest Territories,15,Oil and Gas,Downstream Oil and Gas,Natural Gas Distribution,,0.000314442
-2019,Northwest Territories,16,Electricity,,,,x
+2019,Northwest Territories,16,Electricity,,,,
 2019,Northwest Territories,17,Transport,,,,0.711233532
 2019,Northwest Territories,18,Transport,Passenger Transport,,,0.316150859
 2019,Northwest Territories,19,Transport,Passenger Transport,"Cars, Light Trucks and Motorcycles",,0.107861854
@@ -16452,9 +16452,9 @@ Year,Region,Index,Source,Sector,Sub-sector,Sub-sub-sector,megatonnes_CO2eq
 2019,Northwest Territories,25,Heavy Industry,,,,0.384383431
 2019,Northwest Territories,26,Heavy Industry,Mining,,,0.383807691
 2019,Northwest Territories,32,Heavy Industry,Chemicals and Fertilizers,,,0.000575739
-2019,Northwest Territories,45,"Light Manufacturing, Construction and Forest Resources",,,,x
+2019,Northwest Territories,45,"Light Manufacturing, Construction and Forest Resources",,,,
 2019,Northwest Territories,46,"Light Manufacturing, Construction and Forest Resources",Light Manufacturing,,,0.002387463
-2019,Northwest Territories,47,"Light Manufacturing, Construction and Forest Resources",Construction,,,x
+2019,Northwest Territories,47,"Light Manufacturing, Construction and Forest Resources",Construction,,,
 2019,Northwest Territories,48,"Light Manufacturing, Construction and Forest Resources",Forest Resources,,,0.001664227
 2019,Northwest Territories,33,Buildings,,,,0.129421489
 2019,Northwest Territories,34,Buildings,Service Industry,,,0.069646531
@@ -16463,7 +16463,7 @@ Year,Region,Index,Source,Sector,Sub-sector,Sub-sub-sector,megatonnes_CO2eq
 2019,Northwest Territories,41,Waste,Solid Waste,,,0.031420929
 2019,Northwest Territories,42,Waste,Wastewater,,,0.003612811
 2019,Nunavut,0,Territorial Inventory Total,,,,0.753265369
-2019,Nunavut,16,Electricity,,,,x
+2019,Nunavut,16,Electricity,,,,
 2019,Nunavut,17,Transport,,,,0.423765473
 2019,Nunavut,18,Transport,Passenger Transport,,,0.194594943
 2019,Nunavut,19,Transport,Passenger Transport,"Cars, Light Trucks and Motorcycles",,0.030084153
@@ -16475,9 +16475,9 @@ Year,Region,Index,Source,Sector,Sub-sector,Sub-sub-sector,megatonnes_CO2eq
 2019,Nunavut,25,Heavy Industry,,,,0.120889822
 2019,Nunavut,26,Heavy Industry,Mining,,,0.120394407
 2019,Nunavut,32,Heavy Industry,Chemicals and Fertilizers,,,0.000495415
-2019,Nunavut,45,"Light Manufacturing, Construction and Forest Resources",,,,x
+2019,Nunavut,45,"Light Manufacturing, Construction and Forest Resources",,,,
 2019,Nunavut,46,"Light Manufacturing, Construction and Forest Resources",Light Manufacturing,,,0.001535093
-2019,Nunavut,47,"Light Manufacturing, Construction and Forest Resources",Construction,,,x
+2019,Nunavut,47,"Light Manufacturing, Construction and Forest Resources",Construction,,,
 2019,Nunavut,33,Buildings,,,,0.015238365
 2019,Nunavut,34,Buildings,Service Industry,,,0.013177523
 2019,Nunavut,35,Buildings,Residential,,,0.002060842
@@ -16990,7 +16990,7 @@ Year,Region,Index,Source,Sector,Sub-sector,Sub-sub-sector,megatonnes_CO2eq
 2020,Northwest Territories,12,Oil and Gas,Upstream Oil and Gas,"Oil, Natural Gas and CO2  Transmission",,0.001496
 2020,Northwest Territories,13,Oil and Gas,Downstream Oil and Gas,,,0.000314442
 2020,Northwest Territories,15,Oil and Gas,Downstream Oil and Gas,Natural Gas Distribution,,0.000314442
-2020,Northwest Territories,16,Electricity,,,,x
+2020,Northwest Territories,16,Electricity,,,,
 2020,Northwest Territories,17,Transport,,,,0.541609537
 2020,Northwest Territories,18,Transport,Passenger Transport,,,0.234867524
 2020,Northwest Territories,19,Transport,Passenger Transport,"Cars, Light Trucks and Motorcycles",,0.095784453
@@ -17002,9 +17002,9 @@ Year,Region,Index,Source,Sector,Sub-sector,Sub-sub-sector,megatonnes_CO2eq
 2020,Northwest Territories,25,Heavy Industry,,,,0.362471109
 2020,Northwest Territories,26,Heavy Industry,Mining,,,0.361686511
 2020,Northwest Territories,32,Heavy Industry,Chemicals and Fertilizers,,,0.000784598
-2020,Northwest Territories,45,"Light Manufacturing, Construction and Forest Resources",,,,x
+2020,Northwest Territories,45,"Light Manufacturing, Construction and Forest Resources",,,,
 2020,Northwest Territories,46,"Light Manufacturing, Construction and Forest Resources",Light Manufacturing,,,0.002472253
-2020,Northwest Territories,47,"Light Manufacturing, Construction and Forest Resources",Construction,,,x
+2020,Northwest Territories,47,"Light Manufacturing, Construction and Forest Resources",Construction,,,
 2020,Northwest Territories,48,"Light Manufacturing, Construction and Forest Resources",Forest Resources,,,0.001848113
 2020,Northwest Territories,33,Buildings,,,,0.125920617
 2020,Northwest Territories,34,Buildings,Service Industry,,,0.073611275
@@ -17013,7 +17013,7 @@ Year,Region,Index,Source,Sector,Sub-sector,Sub-sub-sector,megatonnes_CO2eq
 2020,Northwest Territories,41,Waste,Solid Waste,,,0.031827362
 2020,Northwest Territories,42,Waste,Wastewater,,,0.003617955
 2020,Nunavut,0,Territorial Inventory Total,,,,0.590128441
-2020,Nunavut,16,Electricity,,,,x
+2020,Nunavut,16,Electricity,,,,
 2020,Nunavut,17,Transport,,,,0.31020042
 2020,Nunavut,18,Transport,Passenger Transport,,,0.136060882
 2020,Nunavut,19,Transport,Passenger Transport,"Cars, Light Trucks and Motorcycles",,0.026856468
@@ -17025,9 +17025,9 @@ Year,Region,Index,Source,Sector,Sub-sector,Sub-sub-sector,megatonnes_CO2eq
 2020,Nunavut,25,Heavy Industry,,,,0.084145305
 2020,Nunavut,26,Heavy Industry,Mining,,,0.083464767
 2020,Nunavut,32,Heavy Industry,Chemicals and Fertilizers,,,0.000680539
-2020,Nunavut,45,"Light Manufacturing, Construction and Forest Resources",,,,x
+2020,Nunavut,45,"Light Manufacturing, Construction and Forest Resources",,,,
 2020,Nunavut,46,"Light Manufacturing, Construction and Forest Resources",Light Manufacturing,,,0.001181516
-2020,Nunavut,47,"Light Manufacturing, Construction and Forest Resources",Construction,,,x
+2020,Nunavut,47,"Light Manufacturing, Construction and Forest Resources",Construction,,,
 2020,Nunavut,33,Buildings,,,,0.015210622
 2020,Nunavut,34,Buildings,Service Industry,,,0.013169746
 2020,Nunavut,35,Buildings,Residential,,,0.002040876
@@ -17541,7 +17541,7 @@ Year,Region,Index,Source,Sector,Sub-sector,Sub-sub-sector,megatonnes_CO2eq
 2021,Northwest Territories,12,Oil and Gas,Upstream Oil and Gas,"Oil, Natural Gas and CO2  Transmission",,0.001496003
 2021,Northwest Territories,13,Oil and Gas,Downstream Oil and Gas,,,0.000314442
 2021,Northwest Territories,15,Oil and Gas,Downstream Oil and Gas,Natural Gas Distribution,,0.000314442
-2021,Northwest Territories,16,Electricity,,,,x
+2021,Northwest Territories,16,Electricity,,,,
 2021,Northwest Territories,17,Transport,,,,0.599007101
 2021,Northwest Territories,18,Transport,Passenger Transport,,,0.262872916
 2021,Northwest Territories,19,Transport,Passenger Transport,"Cars, Light Trucks and Motorcycles",,0.097823531
@@ -17553,9 +17553,9 @@ Year,Region,Index,Source,Sector,Sub-sector,Sub-sub-sector,megatonnes_CO2eq
 2021,Northwest Territories,25,Heavy Industry,,,,0.373172256
 2021,Northwest Territories,26,Heavy Industry,Mining,,,0.373051398
 2021,Northwest Territories,32,Heavy Industry,Chemicals and Fertilizers,,,0.000120858
-2021,Northwest Territories,45,"Light Manufacturing, Construction and Forest Resources",,,,x
+2021,Northwest Territories,45,"Light Manufacturing, Construction and Forest Resources",,,,
 2021,Northwest Territories,46,"Light Manufacturing, Construction and Forest Resources",Light Manufacturing,,,0.002521507
-2021,Northwest Territories,47,"Light Manufacturing, Construction and Forest Resources",Construction,,,x
+2021,Northwest Territories,47,"Light Manufacturing, Construction and Forest Resources",Construction,,,
 2021,Northwest Territories,48,"Light Manufacturing, Construction and Forest Resources",Forest Resources,,,0.001727062
 2021,Northwest Territories,33,Buildings,,,,0.127953545
 2021,Northwest Territories,34,Buildings,Service Industry,,,0.078264219
@@ -17564,7 +17564,7 @@ Year,Region,Index,Source,Sector,Sub-sector,Sub-sub-sector,megatonnes_CO2eq
 2021,Northwest Territories,41,Waste,Solid Waste,,,0.032257881
 2021,Northwest Territories,42,Waste,Wastewater,,,0.003648243
 2021,Nunavut,0,Territorial Inventory Total,,,,0.625958633
-2021,Nunavut,16,Electricity,,,,x
+2021,Nunavut,16,Electricity,,,,
 2021,Nunavut,17,Transport,,,,0.342058227
 2021,Nunavut,18,Transport,Passenger Transport,,,0.156847715
 2021,Nunavut,19,Transport,Passenger Transport,"Cars, Light Trucks and Motorcycles",,0.030536405
@@ -17576,9 +17576,9 @@ Year,Region,Index,Source,Sector,Sub-sector,Sub-sub-sector,megatonnes_CO2eq
 2021,Nunavut,25,Heavy Industry,,,,0.081710769
 2021,Nunavut,26,Heavy Industry,Mining,,,0.081602034
 2021,Nunavut,32,Heavy Industry,Chemicals and Fertilizers,,,0.000108735
-2021,Nunavut,45,"Light Manufacturing, Construction and Forest Resources",,,,x
+2021,Nunavut,45,"Light Manufacturing, Construction and Forest Resources",,,,
 2021,Nunavut,46,"Light Manufacturing, Construction and Forest Resources",Light Manufacturing,,,0.001227393
-2021,Nunavut,47,"Light Manufacturing, Construction and Forest Resources",Construction,,,x
+2021,Nunavut,47,"Light Manufacturing, Construction and Forest Resources",Construction,,,
 2021,Nunavut,33,Buildings,,,,0.014953966
 2021,Nunavut,34,Buildings,Service Industry,,,0.012930565
 2021,Nunavut,35,Buildings,Residential,,,0.002023401
